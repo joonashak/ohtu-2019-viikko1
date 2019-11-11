@@ -31,13 +31,6 @@ public class Varasto {
         } else {
             this.saldo = this.tilavuus;  // täyteen ja ylimäärä hukkaan!
         }
-
-
-
-
-
-
-        // riko checkstyle
     }
 
     // --- ottavat aksessorit eli getterit: ---
